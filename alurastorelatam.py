@@ -286,10 +286,6 @@ Se recomienda **vender la Tienda 4** por las siguientes razones:
 
 La venta de la Tienda 4 permitirá redirigir recursos e inversiones hacia las tiendas con mejor desempeño (particularmente Tienda 2 y Tienda 3), optimizando la eficiencia y la rentabilidad global del grupo Alura Store.
 
----
-
-Este informe está respaldado por el análisis cuantitativo y las visualizaciones generadas durante el proceso, lo que permite una toma de decisiones informada y fundamentada.
-
 #Análisis del desempeño geográfico
 """
 
